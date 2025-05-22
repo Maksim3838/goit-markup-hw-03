@@ -79,6 +79,7 @@ h6 {
   background-color: #2e2f42;
   padding-top: 188px;
   padding-bottom: 188px;
+  margin: ;
 }
 
 .main-Business {
@@ -128,9 +129,9 @@ h6 {
 }
 
 .feat-section {
-  background: #f4f4fd;
   padding-top: 120px;
   padding-bottom: 120px;
+  background: #f4f4fd;
 }
 .main-ourportfolio {
   padding-top: 120px;
