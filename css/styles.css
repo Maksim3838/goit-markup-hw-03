@@ -34,6 +34,7 @@ h6 {
 
 .header .container {
   display: flex;
+  align-items: center;
 }
 
 .container {
@@ -69,7 +70,7 @@ h6 {
   padding-top: 24px;
   padding-bottom: 24px;
 }
-S .Portfolio {
+.Portfolio {
   padding-top: 24px;
   padding-bottom: 24px;
 }
