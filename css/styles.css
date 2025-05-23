@@ -102,6 +102,7 @@ h6 {
 .header-add-list {
   display: flex;
   margin-right: 156px;
+  gap: 40px;
 }
 
 .address-link {
