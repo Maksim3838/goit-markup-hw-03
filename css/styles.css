@@ -66,9 +66,10 @@ h6 {
 .header-menu-list {
   display: flex;
   gap: 40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
-
-.Portfolio {
+S .Portfolio {
   padding-top: 24px;
   padding-bottom: 24px;
 }
