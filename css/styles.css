@@ -56,11 +56,11 @@ h6 {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
+  margin-right: 76px;
 }
 
 .logo-part {
   color: #2e2f42;
-  margin-right: 76px;
 }
 
 .header-menu-list {
@@ -68,15 +68,15 @@ h6 {
   gap: 40px;
 }
 
-.header-menu-list .Portfolio {
+.Portfolio {
   padding-top: 24px;
   padding-bottom: 24px;
 }
-.header-menu-list .Studio {
+.Studio {
   padding-top: 24px;
   padding-bottom: 24px;
 }
-.header-menu-list .Contacts {
+.Contacts {
   padding-top: 24px;
   padding-bottom: 24px;
 }
