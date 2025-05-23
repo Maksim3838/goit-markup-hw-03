@@ -25,11 +25,26 @@ h6 {
   margin-bottom: 0;
 }
 
+.header {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  margin-left: 156px;
+}
+
+.header .container {
+  display: flex;
+}
+
 .container {
   width: 1158px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
+}
+
+.header-navigation {
+  display: flex;
+  align-items: center;
 }
 
 .site-logo {
@@ -44,9 +59,16 @@ h6 {
 
 .logo-part {
   color: #2e2f42;
+  margin-right: 76px;
 }
 
 .header-menu-list {
+  display: flex;
+}
+
+.header-menu-list .Portfolio {
+  margin-left: 40px;
+  margin-right: 40px;
 }
 
 .nav-link {
@@ -64,6 +86,12 @@ h6 {
 
 .address {
   font-style: normal;
+  margin-left: auto;
+}
+
+.header-add-list {
+  display: flex;
+  margin-right: 156px;
 }
 
 .address-link {
@@ -71,6 +99,7 @@ h6 {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  margin-right: 40px;
 }
 
 .address-link:hover,
