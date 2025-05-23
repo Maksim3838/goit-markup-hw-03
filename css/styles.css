@@ -181,6 +181,8 @@ h6 {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  width: 264px;
+  height: 104px;
 }
 
 .feat-section {
@@ -191,6 +193,10 @@ h6 {
 .main-ourportfolio {
   padding-top: 120px;
   padding-bottom: 120px;
+}
+
+.features-list {
+  display: flex;
 }
 
 .feat-title {
