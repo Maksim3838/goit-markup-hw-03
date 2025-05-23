@@ -132,6 +132,12 @@ h6 {
   padding-bottom: 120px;
 }
 
+.features-list {
+  gap: 24px;
+  margin-right: 24px;
+  margin-right: 0;
+}
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
