@@ -111,6 +111,8 @@ h6 {
   letter-spacing: 0.02em;
   color: #434455;
   margin-right: 40px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 .address-link:hover,
