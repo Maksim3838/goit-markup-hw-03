@@ -209,6 +209,12 @@ h6 {
   padding-bottom: 120px;
   background: #f4f4fd;
 }
+
+.feat-section-tu {
+  display: flex;
+  gap: 24px;
+}
+
 .main-ourportfolio {
   padding-top: 120px;
   padding-bottom: 120px;
@@ -232,6 +238,7 @@ h6 {
   color: #2e2f42;
   min-width: 162px;
   margin: 0 auto;
+  margin-bottom: 72px;
 }
 
 .feat-li {
