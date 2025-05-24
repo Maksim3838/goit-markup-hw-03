@@ -231,6 +231,23 @@ h6 {
   padding-bottom: 120px;
 }
 
+.container-lot {
+}
+.ourportfolio {
+  margin-bottom: 72px;
+}
+
+.portfolio- text {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
+}
+
+.portfolio {
+  width: calc((100% - 48px) / 3);
+}
+
 .features-list {
   display: flex;
 }
