@@ -72,15 +72,8 @@ img {
   display: flex;
   gap: 40px;
 }
-.portfolio {
-  padding-top: 24px;
-  padding-bottom: 24px;
-}
+
 .studio {
-  padding-top: 24px;
-  padding-bottom: 24px;
-}
-.contacts {
   padding-top: 24px;
   padding-bottom: 24px;
 }
