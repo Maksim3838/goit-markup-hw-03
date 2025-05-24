@@ -336,8 +336,6 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  display: inline-block;
-  margin-bottom: 16px;
 }
 
 .logo-footer-logo .logo-part {
@@ -351,4 +349,9 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+
+.logo-part {
+  display: inline-block;
+  margin-bottom: 16px;
 }
