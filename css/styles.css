@@ -147,6 +147,11 @@ img {
   gap: 24px;
   margin-right: 24px;
   margin-right: 0;
+  display: flex;
+}
+
+.features-item {
+  width: calc((100% - 72px) / 4);
 }
 
 .hero-title {
