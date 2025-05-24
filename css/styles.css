@@ -194,6 +194,12 @@ h6 {
   margin-bottom: 8px;
 }
 
+.container-mod{
+padding: 32px 0
+text-align: center; 
+margin-bottom: 8px
+}
+
 .features-item-text {
   font-weight: 400;
   font-size: 16px;
@@ -202,6 +208,7 @@ h6 {
   color: #434455;
   width: 264px;
   height: 104px;
+  text-align: center; 
 }
 
 .feat-section {
@@ -267,6 +274,9 @@ h6 {
   text-transform: capitalize;
   color: #2e2f42;
 }
+
+
+
 
 .portfolio {
   background-color: #fff;
